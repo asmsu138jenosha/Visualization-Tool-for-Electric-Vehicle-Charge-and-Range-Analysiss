@@ -1,1 +1,1 @@
-# Visualization-Tool-for-Electric-Vehicle-Charge-and-Range-Analysiss
+# Visualization-Tool-for-Electric-Vehicle-Charge-and-Range-Analysis
